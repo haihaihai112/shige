@@ -72,5 +72,3 @@ internal static class NativeSafety
         return Volume(source) == Volume(destination);
     }
 }
-
-

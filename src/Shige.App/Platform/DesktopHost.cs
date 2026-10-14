@@ -140,4 +140,3 @@ public sealed class DesktopHost : IDisposable
     [DllImport("user32.dll")] static extern uint TrackPopupMenu(IntPtr menu, uint flags, int x, int y, int reserved, IntPtr h, IntPtr rect);
     [DllImport("user32.dll")] static extern bool DestroyMenu(IntPtr h);
 }
-

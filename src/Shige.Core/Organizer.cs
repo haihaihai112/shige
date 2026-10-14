@@ -381,13 +381,3 @@ public class Organizer
         return result;
     });
 }
-
-
-
-
-
-
-
-
-
-

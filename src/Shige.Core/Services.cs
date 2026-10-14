@@ -142,7 +142,3 @@ public class SettingsStore
         catch (UnauthorizedAccessException) { }
     }
 }
-
-
-
-

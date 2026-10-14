@@ -85,5 +85,3 @@ public class OrganizationResult
     }
     public List<string> Messages { get; set; } = [];
 }
-
-
